@@ -23,6 +23,7 @@ Silver award-winning hackathon prototype using natural language to identify avai
 | May 2026 | [Snowflake AWS Immersion Day](https://github.com/robert-aitken/snowflake-aws-immersion-cortex-code-reference) | Cortex Code, practical developer tooling and Snowflake data engineering workflows | Repo |
 | May 2026 | [Snowflake Dynamic Tables Lab](https://github.com/robert-aitken/snowflake-dynamic-tables-lab-reference) | Declarative pipelines, target lag, refresh modes and SQL-based pipeline design | Repo |
 | May 2026 | [Snowflake Intelligence Lab](https://github.com/robert-aitken/snowflake-intelligence-lab-reference) | Cortex AI, Cortex Search, Cortex Analyst and governed analytical AI applications | Repo |
+| May 2026 | [Snowflake Open Pipelines Learning Reference](https://github.com/robert-aitken/snowflake-open-pipelines-learning-reference) | Apache Iceberg, Snowflake OpenFlow, Open Catalog, Apache Polaris, dbt Projects and multi-engine lakehouse patterns | Repo |
 
 ## Current Interests
 
