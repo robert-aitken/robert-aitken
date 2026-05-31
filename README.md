@@ -19,11 +19,11 @@ Silver award-winning hackathon prototype using natural language to identify avai
 | Date | Course / Workshop | Focus | Evidence |
 |---|---|---|---|
 | May 2025 | [Snowflake Healthcare AI / Machine Learning Workshop](https://github.com/robert-aitken/snowflake-health-ai-workshop-reference) | Cortex AI, Document AI, Cortex Search, Cortex Analyst, notebooks and Streamlit applications | Repo |
-| May 2026 | [dbt Fundamentals](https://github.com/robert-aitken/dbt-fundamentals-learning-project) | dbt project structure, models, sources, tests and analytics engineering concepts | Repo |
-| May 2026 | [Snowflake AWS Immersion Day](https://github.com/robert-aitken/snowflake-aws-immersion-cortex-code-reference) | Cortex Code, practical developer tooling and Snowflake data engineering workflows | Repo |
-| May 2026 | [Snowflake Dynamic Tables Lab](https://github.com/robert-aitken/snowflake-dynamic-tables-lab-reference) | Declarative pipelines, target lag, refresh modes and SQL-based pipeline design | Repo |
+| Apr 2026 | [Snowflake Dynamic Tables Lab](https://github.com/robert-aitken/snowflake-dynamic-tables-lab-reference) | Declarative pipelines, target lag, refresh modes and SQL-based pipeline design | Repo |
 | May 2026 | [Snowflake Intelligence Lab](https://github.com/robert-aitken/snowflake-intelligence-lab-reference) | Cortex AI, Cortex Search, Cortex Analyst and governed analytical AI applications | Repo |
+| May 2026 | [Snowflake AWS Immersion Day](https://github.com/robert-aitken/snowflake-aws-immersion-cortex-code-reference) | Cortex Code, practical developer tooling and Snowflake data engineering workflows | Repo |
 | May 2026 | [Snowflake Open Pipelines Learning Reference](https://github.com/robert-aitken/snowflake-open-pipelines-learning-reference) | Apache Iceberg, Snowflake OpenFlow, Open Catalog, Apache Polaris, dbt Projects and multi-engine lakehouse patterns | Repo |
+| May 2026 | [dbt Fundamentals](https://github.com/robert-aitken/dbt-fundamentals-learning-project) | dbt project structure, models, sources, tests and analytics engineering concepts | Repo |
 
 ## Current Interests
 
