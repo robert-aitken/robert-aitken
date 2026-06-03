@@ -24,10 +24,12 @@ Silver award-winning hackathon prototype using natural language to identify avai
 | May 2026 | [Snowflake AWS Immersion Day](https://github.com/robert-aitken/snowflake-aws-immersion-cortex-code-reference) | Cortex Code, practical developer tooling and Snowflake data engineering workflows | Repo |
 | May 2026 | [Snowflake Open Pipelines Learning Reference](https://github.com/robert-aitken/snowflake-open-pipelines-learning-reference) | Apache Iceberg, Snowflake OpenFlow, Open Catalog, Apache Polaris, dbt Projects and multi-engine lakehouse patterns | Repo |
 | May 2026 | [dbt Fundamentals](https://github.com/robert-aitken/dbt-fundamentals-learning-project) | dbt project structure, models, sources, tests and analytics engineering concepts | Repo |
+| Jun 2026 | [Airflow 101 (Airflow 3) Learning Path](https://github.com/robert-aitken/apache-airflow-learning-reference) | Apache Airflow DAGs, TaskFlow API, scheduling, sensors, XComs, variables, connections, CLI debugging and local Astro development | Repo |
 
 ## Current Interests
 
 - Reliable data pipelines
+- Workflow orchestration
 - Clean transformation layers
 - Data modelling
 - Analytics engineering
