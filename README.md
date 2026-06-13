@@ -25,10 +25,13 @@ Silver award-winning hackathon prototype using natural language to identify avai
 | May 2026 | [Snowflake Open Pipelines Learning Reference](https://github.com/robert-aitken/snowflake-open-pipelines-learning-reference) | Apache Iceberg, Snowflake OpenFlow, Open Catalog, Apache Polaris, dbt Projects and multi-engine lakehouse patterns | Repo |
 | May 2026 | [dbt Fundamentals](https://github.com/robert-aitken/dbt-fundamentals-learning-project) | dbt project structure, models, sources, tests and analytics engineering concepts | Repo |
 | Jun 2026 | [Airflow 101 (Airflow 3) Learning Path](https://github.com/robert-aitken/apache-airflow-learning-reference) | Apache Airflow DAGs, TaskFlow API, scheduling, sensors, XComs, variables, connections, CLI debugging and local Astro development | Repo |
+| Jun 2026 | [Apache Kafka 101 Learning Reference](https://github.com/robert-aitken/apache-kafka-learning-reference) | Kafka fundamentals, topics, partitions, brokers, producers, consumers, offsets, consumer groups, Confluent Cloud CLI, Schema Registry, Kafka Connect, Flink SQL, troubleshooting and real-time streaming architecture patterns | Repo |
 
-## Current Interests
+## Current Interests 
 
 - Reliable data pipelines
+- Event streaming
+- Stream processing
 - Workflow orchestration
 - Clean transformation layers
 - Data modelling
